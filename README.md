@@ -9,7 +9,7 @@ The dataset consists of 6,500 reviews written in Korean for the top 6 OTT applic
 
 Each review was labeled by 5 experts who have experience in developing and releasing applications.
 
-## Expreriments
+## Experiments
 
 Anyone can easily replicate the expreriments of our study using the notebook file located in the experiments folder.
 
