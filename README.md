@@ -1,4 +1,4 @@
-# DPHR-SP
+# D-HRSP
 Dataset of examining Precisely Helpful Reviews for Service Providers
 
 ## About
