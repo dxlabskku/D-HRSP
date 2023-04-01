@@ -1,5 +1,5 @@
 # D-HRSP
-Dataset of examining Precisely Helpful Reviews for Service Providers
+Dataset of Helpful Reviews for Service Providers
 
 ## About
 
