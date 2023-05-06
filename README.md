@@ -3,7 +3,7 @@ Dataset of Helpful Reviews for Service Providers
 
 ## About
 
-We present a dataset of examining precisely helpful reviews for service providers(DPHR-SP).
+We present a dataset of helpful reviews for service providers(D-HRSP).
 
 The dataset consists of 6,500 reviews written in Korean for the top 6 OTT applications.
 
